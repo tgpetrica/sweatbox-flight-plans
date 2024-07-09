@@ -1,0 +1,98 @@
+[
+    {
+        "callsign": "AEG7012",
+        "aircraft": "SF34",
+        "departure": "LRCL",
+        "arrival": "LRTR",
+        "level": "180",
+        "route": "ELROM DCT VASIS"
+    },
+    {
+        "callsign": "TAY6SR",
+        "aircraft": "B738",
+        "departure": "EDDF",
+        "arrival": "LRTR",
+        "level": "310",
+        "route": "CINDY Z74 LAMPU DCT NOMBO/N0426F330 Y161 RIXED/N0443F350 Y161 RIDAR/N0449F370 UZ98 MIQ L605 ESEGA DCT VELOM DCT BAGSI DCT DIVAL DCT STEIN DCT SIRDU DCT GITAS DCT BOKSI DCT TEGRI"
+    },
+    {
+        "callsign": "WMT424",
+        "aircraft": "A320",
+        "departure": "LIPH",
+        "arrival": "LRTR",
+        "level": "370",
+        "route": "INBUT N503 CHI DCT MONFA DCT BARPI DCT ROLBA DCT ZAG DCT VEBAL DCT PIDON DCT BABIT Y574 ROMUX"
+    },
+    {
+        "callsign": "DLH3PR",
+        "aircraft": "A320",
+        "departure": "EDDM ",
+        "arrival": "LRTR",
+        "level": "350",
+        "route": "ROTAX L603 LATLO DCT OBEDI DCT VAMET DCT RASIN/N0435F370 DCT PEROT DCT SOVIN DCT MAVIT"
+    },
+    {
+        "callsign": "BCS5524",
+        "aircraft": "B734",
+        "departure": "LHBP",
+        "arrival": "LRTR",
+        "level": "250",
+        "route": "VETIK DCT TEGRI"
+    },
+    {
+        "callsign": "ROT603W",
+        "aircraft": "AT76",
+        "departure": "LROP",
+        "arrival": "LRTR",
+        "level": "200",
+        "route": "SOKRU DCT NEKUL"
+    },
+    {
+        "callsign": "WMT4HP",
+        "aircraft": "A320",
+        "departure": "LRTR",
+        "arrival": "EGGW",
+        "level": "360",
+        "route": "MOPUG DCT MAVIR DCT DUZLA DCT OGVUN DCT BEGLA DCT FMD/N0446F380 DCT DITIS DCT OKG DCT VELIS DCT SWALM DCT NOGRO M40 RINIS"
+    },
+    {
+        "callsign": "MDF038",
+        "aircraft": "SW4",
+        "departure": "LRTR",
+        "arrival": "LRCL",
+        "level": "170",
+        "route": "NOPTI DCT ATSOS"
+    },
+    {
+        "callsign": "WMT665",
+        "aircraft": "A320",
+        "departure": "LRTR",
+        "arrival": "EDSB",
+        "level": "340",
+        "route": "MOPUG DCT MAVIR DCT OKORA DCT SUNIS/N0448F380 DCT TITIG DCT OTT L173 MAH/N0391F220 L173 LBU Z729 KRH"
+    },
+    {
+        "callsign": "DLH1649",
+        "aircraft": "CRJ9",
+        "departure": "LRTR",
+        "arrival": "EDDM",
+        "level": "340",
+        "route": "MOPUG DCT SUNIS/N0449F360 DCT VATET DCT REDBU Q112 NAPSA"
+    },
+    {
+        "callsign": "NJE304A",
+        "aircraft": "E55P",
+        "departure": "LRTR",
+        "arrival": "LFMN",
+        "level": "340",
+        "route": "MOPUG DCT MAVIR DCT VEBAL/N0413F430 DCT KOTOR DCT ROTAR/N0422F410 DCT IPDAB DCT ENOBA/N0370F190 Z185 BORDI"
+    },
+    {
+        "callsign": "AOJ75L",
+        "aircraft": "CL35",
+        "departure": "LRTR",
+        "arrival": "LIMP",
+        "level": "340",
+        "route": "MOPUG DCT EBORO DCT PIDON DCT VEBAL/N0466F430 DCT BOA DCT UVOKI M859 LUPOS"
+    }
+]
